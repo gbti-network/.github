@@ -4,7 +4,7 @@ GBTI is a community that aims to connect developers and technology enthusiasts t
 
 ## Private Repositories
 
-For information about the private repositories available to our members, please checkout our [./Assets/](https://github.com/gbti-labs/assets) repository.
+For information about the private repositories available to our members, please checkout our [./assets/](https://github.com/gbti-labs/assets) repository.
 
 ## Become a Member
 
