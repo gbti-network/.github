@@ -10,7 +10,7 @@ Product pages:
 
 * [[NextJS] Google Drive Directory](https://gbti.io/assets/nextjs-google-drive-directory/)
 * [[Node] ChatGPT Discord Bot](https://gbti.io/assets/node-chatgpt-discord-bot/)
-* [[Python] Snapshots for AI](https://gbti.io/snapshots-for-ai/)
+* [[Python] Snapshots.py for AI](https://gbti.io/snapshots-for-ai/)
 
 ## Become a Member
 
