@@ -1,6 +1,6 @@
 # About GBTI
 
-GBTI is a private  community that aims to connect developers and technology enthusiasts to collaborate, curate, and grow professionally together. 
+GBTI is a private  community that aims to connect developers and enthusiasts to collaborate, curate, and grow professionally together. 
 
 ## Private Repositories
 
