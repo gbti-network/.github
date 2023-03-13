@@ -9,7 +9,7 @@ For information about the private repositories available to our members, please 
 Product pages:
 
 * [[NextJS] Google Drive Directory](https://gbti.io/assets/nextjs-google-drive-directory/)
-* [[Node] ChatGPT Discord Bot](https://gbti.io/assets/node-chatgpt-discord-bot/)
+* [[NodeJS] ChatGPT Discord Bot](https://gbti.io/assets/node-chatgpt-discord-bot/)
 * [[Python] Snapshots.py for AI](https://gbti.io/snapshots-for-ai/)
 
 ## Become a Member
