@@ -2,11 +2,7 @@
 
 GBTI is a private  community that aims to connect developers and enthusiasts to collaborate, curate, and grow professionally together. 
 
-## Private Repositories
-
-For information about the private repositories available to our members, please checkout our [./assets/](https://github.com/gbti-labs/assets) repository.
-
-Product pages:
+## Popular Repositories
 
 * [[NextJS] Google Drive Directory](https://gbti.io/assets/nextjs-google-drive-directory/)
 * [[NodeJS] ChatGPT Discord Bot](https://gbti.io/assets/node-chatgpt-discord-bot/)
