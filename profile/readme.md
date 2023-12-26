@@ -8,8 +8,10 @@ GBTI is a private  community that aims to connect developers and enthusiasts to 
 * [[NodeJS] ChatGPT Discord Bot](https://github.com/gbti-labs/nodejs-chatgpt-discord-bot)
 * [[Python] Snapshots.py for AI](https://github.com/gbti-labs/snapshots-for-ai)
 * [[Python] Py Domain Crawl and Compare Tool](https://github.com/gbti-labs/py-domain-crawler-and-comparison-tool)
-* [[Chrome Extensions] Copy Table Data (https://github.com/gbti-labs/chrome-extension-copy-table-data)
+* [[Chrome Extensions] Copy Table Data](https://github.com/gbti-labs/chrome-extension-copy-table-data)
 
-## Become a Member
+## Follow GBTI for more
 
-Join GBTI today and gain access to our private repositories, along with a wide range of resources and support. We're excited to have you as part of our community and look forward to seeing all the amazing projects you'll create. To join, simply visit our [registration page](https://gbti.io) and sign up.
+Thanks for reading! If you like our content, please consider following us!
+
+[Twitter/X](https://twitter.com/gbtilabs) | [GitHub](https://github.com/gbti-labs) | [YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA) | [Dev.to](https://dev.to/gbti) | [Daily.dev](https://dly.to/zfCriM6JfRF) | [Hashnode](https://gbti.hashnode.dev/) | [Discord](https://gbti.io)
