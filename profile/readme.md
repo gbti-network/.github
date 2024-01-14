@@ -8,6 +8,7 @@ GBTI is a private  community that aims to connect developers and enthusiasts to 
 * [[NodeJS] ChatGPT Discord Bot](https://github.com/gbti-labs/nodejs-chatgpt-discord-bot)
 * [[Python] Snapshots.py for AI](https://github.com/gbti-labs/snapshots-for-ai)
 * [[Python] Py Domain Crawl and Compare Tool](https://github.com/gbti-labs/py-domain-crawler-and-comparison-tool)
+* [[Python] Py YouTube to Subreddit](https://github.com/gbti-labs/py-youtube-to-subreddit)
 * [[Chrome Extension] Copy Table Data](https://github.com/gbti-labs/chrome-extension-copy-table-data)
 
 ## Follow GBTI for more
