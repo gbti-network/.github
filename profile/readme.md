@@ -6,6 +6,7 @@ GBTI is a private  community that aims to connect developers and enthusiasts to 
 
 * [[NextJS] Google Drive Directory](https://github.com/gbti-labs/nextjs-google-drive-directory)
 * [[NodeJS] ChatGPT Discord Bot](https://github.com/gbti-labs/nodejs-chatgpt-discord-bot)
+* [[Python] Py Animate Hue](https://github.com/gbti-labs/py-animate-hue)
 * [[Python] Py Audio Capture](https://github.com/gbti-labs/py-audio-capture)
 * [[Python] Snapshots.py for AI](https://github.com/gbti-labs/snapshots-for-ai)
 * [[Python] Py Domain Crawl and Compare Tool](https://github.com/gbti-labs/py-domain-crawler-and-comparison-tool)
