@@ -12,9 +12,9 @@ GBTI is a private  community that aims to connect developers and enthusiasts to 
 * [[Python] Py Domain Crawl and Compare Tool](https://github.com/gbti-labs/py-domain-crawler-and-comparison-tool)
 * [[Python] Py YouTube to Subreddit](https://github.com/gbti-labs/py-youtube-to-subreddit)
 * [[Chrome Extension] Copy Table Data](https://github.com/gbti-labs/chrome-extension-copy-table-data)
+* [[Chrome Extension] ETH Monitor](https://github.com/gbti-labs/chrome-extension-eth-monitor)
 
 ## Follow GBTI for more
 
-Thanks for reading! If you like our content, please consider following us!
 
 [Twitter/X](https://twitter.com/gbtilabs) | [GitHub](https://github.com/gbti-labs) | [YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA) | [Dev.to](https://dev.to/gbti) | [Daily.dev](https://dly.to/zfCriM6JfRF) | [Hashnode](https://gbti.hashnode.dev/) | [Discord](https://gbti.io)
