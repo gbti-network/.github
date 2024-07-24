@@ -4,7 +4,7 @@ GBTI is a private  community that aims to connect developers and enthusiasts to 
 
 ## Repositories
 
-* [[Java][PHPStorm PLugin] Snapshots for AI](https://github.com/gbti-labs/phpstorm-snapshots-for-ai/)
+* [PHPStorm Plugin] Snapshots for AI](https://github.com/gbti-labs/phpstorm-snapshots-for-ai/)
 * [[NextJS] Google Drive Directory](https://github.com/gbti-labs/nextjs-google-drive-directory)
 * [[NodeJS] ChatGPT Discord Bot](https://github.com/gbti-labs/nodejs-chatgpt-discord-bot)
 * [[Python] Py Animate Hue](https://github.com/gbti-labs/py-animate-hue)
