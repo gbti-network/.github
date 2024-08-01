@@ -17,4 +17,4 @@ The GBTI Network connects developers and enthusiasts to collaborate, curate, and
 
 ## Follow GBTI for more
 
-[Twitter/X](https://twitter.com/gbti_network) | [GitHub](https://github.com/gbti-labs) | [YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA) | [Dev.to](https://dev.to/gbti) | [Daily.dev](https://dly.to/zfCriM6JfRF) | [Hashnode](https://gbti.hashnode.dev/) | [Discord](https://gbti.network) | [Reddit Community](https://www.reddit.com/r/GBTI_network)
+[Twitter/X](https://twitter.com/gbti_network) | [GitHub](https://github.com/gbti-labs) | [YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA) | [Dev.to](https://dev.to/gbti) | [Daily.dev](https://dly.to/zfCriM6JfRF) | [Hashnode](https://gbti.hashnode.dev/) | [Discord Community](https://gbti.network) | [Reddit Community](https://www.reddit.com/r/GBTI_network)
