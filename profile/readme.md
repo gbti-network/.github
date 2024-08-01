@@ -1,6 +1,6 @@
 # About GBTI
 
-GBTI is a private  community that aims to connect developers and enthusiasts to collaborate, curate, and grow professionally together. 
+The GBTI Network connects developers and enthusiasts to collaborate, curate, and grow professionally together. Our community members enjoy publishing novel tools, launching products and tutorials, as well as spotlighting projects in the open source community. For more information, news, and events, check out the [GBTI Network Blog](https://gbti.network)
 
 ## Repositories
 
@@ -17,5 +17,4 @@ GBTI is a private  community that aims to connect developers and enthusiasts to 
 
 ## Follow GBTI for more
 
-
-[Twitter/X](https://twitter.com/gbtilabs) | [GitHub](https://github.com/gbti-labs) | [YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA) | [Dev.to](https://dev.to/gbti) | [Daily.dev](https://dly.to/zfCriM6JfRF) | [Hashnode](https://gbti.hashnode.dev/) | [Discord](https://gbti.io)
+[Twitter/X](https://twitter.com/gbti_network) | [GitHub](https://github.com/gbti-labs) | [YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA) | [Dev.to](https://dev.to/gbti) | [Daily.dev](https://dly.to/zfCriM6JfRF) | [Hashnode](https://gbti.hashnode.dev/) | [Discord](https://gbti.network) | [Reddit Community](https://www.reddit.com/r/GBTI_network)
