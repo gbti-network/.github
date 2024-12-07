@@ -1,4 +1,4 @@
-# Welcome to the GBTI Network 🌐
+# GBTI Network 
 
 The **GBTI Network** connects developers, innovators, and enthusiasts, fostering a vibrant community dedicated to collaboration, professional growth, and open-source excellence. Through cutting-edge tools, projects, and resources, we empower members to create, share, and succeed.
 
@@ -6,7 +6,7 @@ Sponsor our work by becoming a [GBTI Network Member](https://github.com/sponsors
 
 ---
 
-## 🚀 Membership Benefits
+## Membership Benefits
 
 Becoming a [GBTI Member](https://github.com/sponsors/gbti-network) unlocks premium tools and perks:
 - **Access to Growing List of Premium WordPress Plugins**
