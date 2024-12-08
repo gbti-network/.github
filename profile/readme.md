@@ -21,25 +21,25 @@ Becoming a [GBTI Member](https://github.com/sponsors/gbti-network) unlocks premi
 Explore our open-source experiments across a variety of technologies:
 
 ### AI & Developer Tools
-- [Snapshots for AI (VSCode Plugin)](https://github.com/gbti-labs/vscode-snapshots-for-ai/)
-- [Snapshots for AI (PHPStorm Plugin)](https://github.com/gbti-labs/phpstorm-snapshots-for-ai/)
-- [Snapshots.py for AI (Python)](https://github.com/gbti-labs/snapshots-for-ai)
+- [Snapshots for AI (VSCode Plugin)](https://github.com/gbti-network/vscode-snapshots-for-ai)
+- [Snapshots for AI (PHPStorm Plugin)](https://github.com/gbti-netowrk/phpstorm-snapshots-for-ai/)
+- [Snapshots.py for AI (Python)](https://github.com/gbti-network/snapshots-for-ai)
 
 ### Web Development
-- [Google Drive Directory (NextJS)](https://github.com/gbti-labs/nextjs-google-drive-directory)
+- [Google Drive Directory (NextJS)](https://github.com/gbti-network/nextjs-google-drive-directory)
 
 ### Automation & Bots
-- [ChatGPT Discord Bot (NodeJS)](https://github.com/gbti-labs/nodejs-chatgpt-discord-bot)
+- [ChatGPT Discord Bot (NodeJS)](https://github.com/gbti-network/nodejs-chatgpt-discord-bot)
 
 ### Chrome Extensions
-- [Copy Table Data](https://github.com/gbti-labs/chrome-extension-copy-table-data)
-- [ETH Monitor](https://github.com/gbti-labs/chrome-extension-eth-monitor)
+- [Copy Table Data](https://github.com/gbti-network/chrome-extension-copy-table-data)
+- [ETH Monitor](https://github.com/gbti-network/chrome-extension-eth-monitor)
 
 ### Python Projects
-- [Py Animate Hue](https://github.com/gbti-labs/py-animate-hue)
-- [Py Audio Capture](https://github.com/gbti-labs/py-audio-capture)
-- [Py Domain Crawl and Compare Tool](https://github.com/gbti-labs/py-domain-crawler-and-comparison-tool)
-- [Py YouTube to Subreddit](https://github.com/gbti-labs/py-youtube-to-subreddit)
+- [Py Animate Hue](https://github.com/gbti-network/py-animate-hue)
+- [Py Audio Capture](https://github.com/gbti-network/py-audio-capture)
+- [Py Domain Crawl and Compare Tool](https://github.com/gbti-network/py-domain-crawler-and-comparison-tool)
+- [Py YouTube to Subreddit](https://github.com/gbti-network/py-youtube-to-subreddit)
 
 ---
 
@@ -58,7 +58,7 @@ Joining the GBTI Network means becoming part of a community where your work is v
 
 Follow us on your favorite platforms for updates, news, and community discussions:
 - **[Twitter/X](https://twitter.com/gbti_network)**
-- **[GitHub](https://github.com/gbti-labs)**
+- **[GitHub](https://github.com/gbti-network)**
 - **[YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA)**
 - **[Dev.to](https://dev.to/gbti)**
 - **[Daily.dev](https://dly.to/zfCriM6JfRF)**
