@@ -4,7 +4,6 @@ The **GBTI Network** is a professional co-op network where members share profits
 
 Sponsor our work by becoming a [GBTI Network Member](https://gbti.network/membership) (_powered by GitHub Sponsorship_).
 
----
 
 ## Membership Benefits
 
@@ -14,7 +13,6 @@ Becoming a [GBTI Member](https://github.com/sponsors/gbti-network) unlocks premi
 - **Membership Directory Listings** (optional)
 - **Engaging Communities** on Private Discord, Reddit, Private Minecraft Server and more.
   
----
 
 ## Stay Connected
 
@@ -30,4 +28,4 @@ Follow us on your favorite platforms for updates, news, and community discussion
 
 ---
 
-© 2024 GBTI Network. All rights reserved. Join us and shape the future of open source together.
+© 2024 GBTI Network. All rights reserved. Thanks for paying attention!
