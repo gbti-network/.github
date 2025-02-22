@@ -1,8 +1,8 @@
 # GBTI Network 
 
-The **GBTI Network** connects developers, innovators, and enthusiasts, fostering a vibrant community. Through cutting-edge tools, projects, and resources, we empower members to create, share, and succeed.
+The **GBTI Network** is a professional co-op network where members share profits, publish products, and contribute articles—all powered by community and GitHub sponsorships.
 
-Sponsor our work by becoming a [GBTI Network Member](https://github.com/sponsors/gbti-network) (_powered by GitHub Sponsorship_).
+Sponsor our work by becoming a [GBTI Network Member](https://gbti.network/membership) (_powered by GitHub Sponsorship_).
 
 ---
 
@@ -16,7 +16,7 @@ Becoming a [GBTI Member](https://github.com/sponsors/gbti-network) unlocks premi
   
 ---
 
-## 📚 Our Repositories
+## Our Repositories
 
 Explore our open-source experiments across a variety of technologies:
 
@@ -43,7 +43,7 @@ Explore our open-source experiments across a variety of technologies:
 
 ---
 
-## 💻 Join the GBTI Network
+## Join the GBTI Network
 
 Joining the GBTI Network means becoming part of a community where your work is valued, your skills grow, and your projects shine. Support us and enjoy:
 - Premium tools and plugins.
@@ -54,7 +54,7 @@ Joining the GBTI Network means becoming part of a community where your work is v
 
 ---
 
-## 📡 Stay Connected
+## Stay Connected
 
 Follow us on your favorite platforms for updates, news, and community discussions:
 - **[Twitter/X](https://twitter.com/gbti_network)**
