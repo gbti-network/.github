@@ -1,6 +1,6 @@
 # GBTI Network 
 
-The **GBTI Network** is a professional co-op network where members share profits, publish products, and contribute articles—all powered by community and GitHub sponsorships.
+The **GBTI Network** is a professional co-op network where members have opportunities to share profits, publish products, and contribute articles—all powered by community and GitHub sponsorships.
 
 Sponsor our work by becoming a [GBTI Network Member](https://gbti.network/membership) (_powered by GitHub Sponsorship_).
 
